@@ -3,4 +3,5 @@ End-to-end laptop price prediction model using data mining techniques, explorato
 
 1. Data analysis
 2. Feature analysis
-3. Feature selection 
+3. Feature selection
+4. model training
